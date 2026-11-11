@@ -21,6 +21,11 @@ namespace Web_Server_Application_Final_Project.Controllers
             return View();
         }
 
+        public IActionResult PlayerReactions()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
